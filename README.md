@@ -29,17 +29,15 @@
 We highly value your data privacy and user experience. By using the desktop application, all processing is done locally, with no data being uploaded to the cloud. This ensures greater security and a smoother experience.
 - Windows desktop app: https://gigigrid.com
 
-## 🚫 Source Code
-
-This repository is for introduction and documentation only. The source code is **not open-sourced** at the moment. For partnership inquiries, please visit our official site.
-
 ## 📷 Screenshots
 
 > ![AI Operation](./images/action.int.png)
-
 > ![Excel assistant](./images/check.int.png)
-
 > ![Excel beautify](./images/beautify.int.png)
+
+## 🚫 Source Code
+
+This repository is for introduction and documentation only. The source code is **not open-sourced** at the moment. For partnership inquiries, please visit our official site.
 
 ---
 
