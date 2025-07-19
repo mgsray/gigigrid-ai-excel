@@ -30,7 +30,7 @@ We highly value your data privacy and user experience. By using the desktop appl
 
 This repository is for introduction and documentation only. The source code is **not open-sourced** at the moment. For partnership inquiries, please visit our official site.
 
-## 📷 Demo Screenshots
+## 📷 Screenshots
 
 > ![AI Operation](./images/action.int.png)
 
