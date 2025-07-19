@@ -15,7 +15,7 @@
 - ✅ Visualized chart analysis
 - ✅ Upload and edit your Excel files online
 
-## ▶️ Product Demo
+## ▶️ Live Product
 ![Product Demo](./images/gegeblue.int.gif)
 
 ## 🎯 Who Is It For?
