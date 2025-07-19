@@ -15,6 +15,9 @@
 - ✅ Visualized chart analysis
 - ✅ Upload and edit your Excel files online
 
+## ▶️ Product Demo
+![Product Demo](./images/gegeblue.int.gif)
+
 ## 🎯 Who Is It For?
 
 - Office workers using Excel daily
