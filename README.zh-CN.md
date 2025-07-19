@@ -16,6 +16,9 @@ GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于
 - ✅ 可视化图表分析
 - ✅ 支持上传本地 Excel 文件处理
 
+## ▶️ 产品展示
+![Product Demo](./images/gegeblue.gif)
+
 ## 🎯 适用人群
 
 - 日常使用 Excel 的白领办公人员
