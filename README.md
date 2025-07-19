@@ -33,7 +33,9 @@ This repository is for introduction and documentation only. The source code is *
 ## 📷 Demo Screenshots
 
 > ![AI Operation](./images/action.int.png)
+
 > ![Excel assistant](./images/check.int.png)
+
 > ![Excel beautify](./images/beautify.int.png)
 
 ---
