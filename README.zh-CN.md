@@ -43,5 +43,5 @@ GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于
 
 ---
 
-欢迎访问官网了解更多功能和体验案例。
+欢迎[访问官网](https://gegeblue.com.cn)了解更多功能和体验案例。
 
