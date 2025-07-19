@@ -40,4 +40,4 @@ This repository is for introduction and documentation only. The source code is *
 
 ---
 
-Explore more features and tutorials on our website!
+Explore more features and tutorials on our [website](https://gigigrid.com/)!
