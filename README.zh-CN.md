@@ -36,7 +36,9 @@ GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于
 ## 📷 部分截图
 
 > ![AI智能操作](./images/action.png)
+
 > ![智能检查](./images/check.png)
+
 > ![一键美化](./images/beautify.png)
 
 ---
