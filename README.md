@@ -1,7 +1,6 @@
-# gigigrid-ai-excel
-A powerful AI-powered Excel assistant that helps you process data more efficiently, automate workflows, and improve productivity.
-
 # GiGiGrid — Smart Assistant for Excel
+[![English](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.zh-CN.md)
 
 **GiGiGrid** is a powerful AI-driven assistant for Excel users. It helps you process data more efficiently, automate repetitive tasks, and boost your productivity in spreadsheets.
 
@@ -9,10 +8,10 @@ A powerful AI-powered Excel assistant that helps you process data more efficient
 
 ## ✨ Key Features
 
-- ✅ AI-powered Excel formula generation
+- ✅ Natural language Excel operations driven by AI,LLM
 - ✅ Intelligent auto-fill, merge, and data completion
-- ✅ Natural language Excel operations
-- ✅ Data is secured locally, no need to upload file.
+- ✅ AI-powered Excel formula generation
+- ✅ Local processing: **no cloud upload**, full data privacy
 - ✅ Visualized chart analysis
 - ✅ Upload and edit your Excel files online
 
@@ -33,11 +32,10 @@ This repository is for introduction and documentation only. The source code is *
 
 ## 📷 Demo Screenshots
 
-> ![Feature AI](https://gigigrid.com/static/img/product/action.int.png)
-> ![Excel assistant](https://gigigrid.com/static/img/product/check.int.png)
-> ![Excel beautify](https://gigigrid.com/static/img/product/beautify.int.png)
+> ![AI Operation](./images/action.int.png)
+> ![Excel assistant](./images/check.int.png)
+> ![Excel beautify](./images/beautify.int.png)
 
 ---
 
 Explore more features and tutorials on our website!
-
