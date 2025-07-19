@@ -3,9 +3,9 @@
 [![English](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.zh-CN.md)
 
-GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于帮助用户更高效地处理数据、自动化表格操作、提升办公效率。无论是复杂公式、数据清洗，还是批量处理、智能补全，GeGeBlue 都能轻松应对。
+GeGeBlue (海外版GiGiGrid)是一款强大的 Excel 智能助手，致力于帮助用户更高效地处理数据、自动化表格操作、提升办公效率。无论是复杂公式、数据清洗，还是批量处理、智能补全，GeGeBlue 都能轻松应对。
 
-👉 官网地址：https://gegeblue.com.cn 海外版地址：https://gigirid.com
+👉 官网地址：https://gegeblue.com.cn 海外版地址：https://gigigrid.com
 
 ## ✨ 核心功能
 
@@ -32,10 +32,6 @@ GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于
 - Web 在线体验：https://gegeblue.com.cn/handle
 - 微信小程序 搜索：**GeGeBlue**
 
-## 🚫 源码未公开
-
-本仓库仅用于产品介绍和使用说明，暂未公开源代码。如有合作意向，请联系官网客服。
-
 ## 📷 部分截图
 
 > ![AI智能操作](./images/action.png)
@@ -43,6 +39,10 @@ GeGeBlue (海外版称GeGeGrid)是一款强大的 Excel 智能助手，致力于
 > ![智能检查](./images/check.png)
 
 > ![一键美化](./images/beautify.png)
+
+## 🚫 源码未公开
+
+本仓库仅用于产品介绍和使用说明，暂未公开源代码。如有合作意向，请联系官网客服。
 
 ---
 
