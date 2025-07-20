@@ -27,7 +27,7 @@
 ## 🚀 How to Use
 
 We highly value your data privacy and user experience. By using the desktop application, all processing is done locally, with no data being uploaded to the cloud. This ensures greater security and a smoother experience.
-- Windows desktop app: https://gigigrid.com
+- Windows desktop app: [https://gigigrid.com](https://gigigrid.com?utm_source=github&utm_medium=download)
 
 ## 📷 Screenshots
 
