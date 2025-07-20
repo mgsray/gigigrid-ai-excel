@@ -4,7 +4,7 @@
 
 **GiGiGrid** is a powerful AI-driven assistant for Excel users. It helps you process data more efficiently, automate repetitive tasks, and boost your productivity in spreadsheets.
 
-👉 Product Website: https://gigigrid.com/
+👉 Product Website: [https://gigigrid.com](https://gigigrid.com?utm_source=github&utm_medium=home)
 
 ## ✨ Key Features
 
@@ -41,4 +41,4 @@ This repository is for introduction and documentation only. The source code is *
 
 ---
 
-Explore more features and tutorials on our [website](https://gigigrid.com/)!
+Explore more features and tutorials on our [website](https://gigigrid.com?utm_source=github&utm_medium=home)!
