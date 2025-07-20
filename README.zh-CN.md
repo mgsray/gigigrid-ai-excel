@@ -5,7 +5,7 @@
 
 GeGeBlue (海外版GiGiGrid)是一款强大的 Excel 智能助手，致力于帮助用户更高效地处理数据、自动化表格操作、提升办公效率。无论是复杂公式、数据清洗，还是批量处理、智能补全，GeGeBlue 都能轻松应对。
 
-👉 官网地址：https://gegeblue.com.cn 海外版地址：https://gigigrid.com
+👉 官网地址：[https://gegeblue.com.cn](https://gegeblue.com.cn?utm_source=github&utm_medium=home) 海外版地址：[https://gigigrid.com](https://gigigrid.com?utm_source=github&utm_medium=home)
 
 ## ✨ 核心功能
 
@@ -46,5 +46,5 @@ GeGeBlue (海外版GiGiGrid)是一款强大的 Excel 智能助手，致力于帮
 
 ---
 
-欢迎[访问官网](https://gegeblue.com.cn)了解更多功能和体验案例。
+欢迎[访问官网](https://gegeblue.com.cn?utm_source=github&utm_medium=home)了解更多功能和体验案例。
 
