@@ -28,8 +28,8 @@ GeGeBlue (海外版GiGiGrid)是一款强大的 Excel 智能助手，致力于帮
 ## 📌 使用方式
 
 我们非常重视您的数据隐私与使用体验。使用桌面版应用，所有处理均在本地完成，数据不会上传至云端，从而为您提供更高的安全性和更流畅的操作体验。
-- Windows 桌面版：https://gegeblue.com.cn
-- Web 在线体验：https://gegeblue.com.cn/handle
+- Windows 桌面版：[https://gegeblue.com.cn](https://gegeblue.com.cn?utm_source=github&utm_medium=download)
+- Web 在线体验：[https://gegeblue.com.cn/handle](https://gegeblue.com.cn/handle?utm_source=github&utm_medium=handle)
 - 微信小程序 搜索：**GeGeBlue**
 
 ## 📷 部分截图
